@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 hi, i'm [Vincent Perez](http://vincentperez.ca/), a passionate self-taught back-end developer from canada. 
 Motivated by tech news, innovation and maintainability. My goals are to create powerful software for customers, easy to maintain and to evolve for developers.
 
-<img align="right" alt="GIF" src="https://github.com/feonor21/feonor21/blob/main/dev.gif?raw=true" width="480" height="360" />
-  
 **languages and tools:**  
 
 
@@ -44,4 +42,6 @@ my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=feonor21&show_icons=true&theme=gotham" alt="feonor21" />
 
 
+<img align="right" alt="GIF" src="https://github.com/feonor21/feonor21/blob/main/dev.gif?raw=true" width="480" height="360" />
+  
 
