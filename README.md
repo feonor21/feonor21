@@ -3,11 +3,8 @@
 <a href="https://www.linkedin.com/in/vincentperezca//">
   <img align="left" alt="vincent's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=feonor21.feonor21)
-
-<br />
 
 hi, i'm [Vincent Perez](http://vincentperez.ca/), a passionate self-taught back-end developer from canada.
 Motivated by tech news, innovation and maintainability. My goals are to create powerful software for customers, easy to maintain and to evolve for developers.
