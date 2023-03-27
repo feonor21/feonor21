@@ -6,8 +6,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=feonor21.feonor21)
 
-hi, i'm [Vincent Perez](http://vincentperez.ca/), a passionate self-taught back-end developer from canada.
-Motivated by tech news, innovation and maintainability. My goals are to create powerful software for customers, easy to maintain and to evolve for developers.
+Hi, I am [Vincent Perez (feonor)](http://vincentperez.ca/), a self-taught DevOps Junior passionate about automating software development and deployment processes. I have acquired skills in configuration management, continuous integration, continuous deployment, monitoring, and container orchestration by exploring different DevOps tools and technologies on my own. I am motivated by continuous learning and the opportunity to work in a team to deliver high-performing and scalable solutions.
 
 **languages and tools:**
 
